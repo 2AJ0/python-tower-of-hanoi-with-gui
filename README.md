@@ -27,5 +27,10 @@ A sleek, minimalist dark-mode implementation of the classic Tower of Hanoi puzzl
 - **Next Step:** Manually advance the puzzle by one valid move.
 - **Auto Solve:** Click to start the automatic animation. Click again to pause.
 
+## Screenshots
+![App Screenshot](1.png)
+![App Screenshot](2.png)
+![App Screenshot](3.png)
+
 ## License
 Feel free to use, modify, and distribute this code for practice or personal projects!
